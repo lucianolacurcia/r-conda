@@ -2,4 +2,57 @@ channels:
   - conda-forge
 dependencies:
   - r-base=4.1.1
+  - r-data.table
+  - r-dplyr
+  - r-dt
+  - r-forecast
+  - r-foreign
+  - r-formattable
+  - r-ggextra
+  - r-ggplot2
+  - r-ggpubr
+  - r-ggrepel
+  - r-glue
+  - r-grid
+  - r-gridextra
+  - r-gtools
+  - r-here
+  - r-htmlwidgets
+  - r-kableextra
+  - r-knitr
+  - r-leaflet
+  - r-leaflet.extras
+  - r-lubridate
+  - r-mass
+  - r-mgcv
+  - r-mirt
+  - r-nngeo
+  - r-plotly
+  - r-plotrix
+  - r-plyr
+  - r-rcolorbrewer
+  - r-readxl
+  - r-reshape
+  - r-reshape2
+  - r-rlang
+  - r-scales
+  - r-sf
+  - r-shinydashboard
+  - r-sp
+  - r-survminer
+  - r-tables
+  - r-tibbletime
+  - r-tidygeocoder
+  - r-tidyr
   - r-tidyverse
+  - r-tmaptools
+  - r-viridis
+  - r-xtable
+  - r-here
+  - r-htmlwidgets
+    # - r-nngeo
+  - r-fst
+  - r-mefa
+  - r-conflicted
+    # - r-parallel
+    # - r-tools
