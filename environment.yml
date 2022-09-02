@@ -53,5 +53,6 @@ dependencies:
   - r-fst
   - r-mefa
   - r-conflicted
+  - libgcc
     # - r-parallel
     # - r-tools
